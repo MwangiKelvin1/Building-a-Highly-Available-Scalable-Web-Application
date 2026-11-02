@@ -57,7 +57,7 @@ The project is organized into four implementation phases:
 
 ### Architecture Diagram
 
-![AWS Highly Available and Scalable Web Application Architecture](architecture.png)
+![AWS Highly Available and Scalable Web Application Architecture](Architecture.png)
 
 *Figure 1: AWS architecture illustrating the application, networking, database, security, and scalability components.*
 
